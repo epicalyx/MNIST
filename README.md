@@ -1,2 +1,2 @@
-# MNIST
-Digits recognition using CNN
+
+## Handwritten Digits recognition using Convolutional Neural Networks using the MNIST dataset ##
